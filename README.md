@@ -70,18 +70,11 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
   
 
-</div>
-
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-
-<br>
-
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Galina-D06/Galina-D06/refs/heads/main/Certificate.png)
-
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Galina-D06/Galina-D06/refs/heads/main/Certificate.png)
 
 <br>
 <br>
